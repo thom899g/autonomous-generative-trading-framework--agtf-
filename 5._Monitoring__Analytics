@@ -1,0 +1,6 @@
+- Performance metrics
+- Anomaly detection
+- Automated reporting
+
+## Data Flow
+Market Data → Feature Engineering → Generative Models → Strategy Evaluation → Execution → Performance Tracking → Reinforcement
